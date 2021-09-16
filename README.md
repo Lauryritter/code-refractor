@@ -11,7 +11,10 @@ I created a repository on GitHub.  I created an HTML file in the repository.  I 
 I needed to have GitHub, GitBash and Visual Studio Code downloaded onto my computer to accomplish these tasks.
 
 ```
-GitHub was used to create the repository.  GitBash was used to clone the repository.  Visual Studio Code was used to make changes to the repository.  GitBash was again used to update the repository in GitHub.  GitHub was used to launch the website.
+1. GitHub was used to create the repository.  
+2. GitBash was used to clone the repository.  
+3. Visual Studio Code was used to make changes to the repository.  
+4. GitBash was again used to update the repository in GitHub.  GitHub was used to launch the website.
 ```
 
 ### Installing
