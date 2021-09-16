@@ -55,9 +55,9 @@ I did git status, git add ., git commit -m, and git push
 
 * **Laury Ritter** 
 
-- [Link to Portfolio Site]()
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
+- [Link to Portfolio Site](https://lauryritter.github.io/)
+- [Link to Github](https://github.com/Lauryritter/)
+- [Link to LinkedIn](https://www.linkedin.com/in/laury-ritter-4a449921a/)
 
 ## Acknowledgments
 
