@@ -20,21 +20,21 @@ GitHub was used to create the repository.  GitBash was used to clone the reposit
 
 ```
 I replaced the <div> codes with either <header>, <section>, <article> or <footer>
-```,
+```
 
-I added alt attributes:
+- I added alt attributes:
 
 ```
 I gave descriptive alt attributes to the pictures and the icons
-```,
+```
 
-I performed the git commands to update the repository on GitHub.
+- I performed the git commands to update the repository on GitHub.
 
 ```
 I did git status, git add ., git commit -m, and git push
-```,
+```
 
-I used GitHub to create a website that reflects the changes I made to my project.
+- I used GitHub to create a website that reflects the changes I made to my project.
 
 
 ## Built With
